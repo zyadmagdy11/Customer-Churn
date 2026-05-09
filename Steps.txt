@@ -1,0 +1,7 @@
+1- Create Github Repo
+2- Clone Repo to Local -> git clone link
+3- Create Virtual Env
+4- Install Required Packages
+5- Start your Project
+6- Commit Changes Periodically
+7- Push to github
